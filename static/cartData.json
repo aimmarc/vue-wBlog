@@ -1,0 +1,30 @@
+{
+  "status":1,
+  "result":{
+    "totalMoney":59,
+    "list":[
+      {
+        "productId":"600100002115",
+        "productName":"黄鹤楼香烟",
+        "productPrice":"25",
+        "productSumPrice":"25",
+        "productSum":"1",
+        "imgSrc":"../static/logo.png",
+        "parts":[
+          {"partName":"打火机"},{"partName":"打火机油"}
+        ]
+      },{
+        "productId":"600100002115",
+        "productName":"中华香烟",
+        "productPrice":"55",
+        "productSumPrice":"55",
+        "productSum":"1",
+        "imgSrc":"../static/logo.png",
+        "parts":[
+          {"partName":"打火机"},{"partName":"打火机油"}
+        ]
+      }
+    ]
+  },
+  "message":""
+}

@@ -1,0 +1,1 @@
+var requestUrl = 'http://server.natappfree.cc:42566/';
